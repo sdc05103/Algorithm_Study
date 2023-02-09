@@ -1,4 +1,4 @@
-# Algorithm Study 공간
+# Algorithm Study
 
 * ~ 2/13 까지 해야 할것
 
